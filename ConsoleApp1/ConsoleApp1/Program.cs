@@ -163,7 +163,7 @@ internal class Myclass
 
             Console.WriteLine("0.25: {0}", S);
         }
-        static void PrintCarInformation(MDT Shop)
+        static void PrintUserInformation(MDT Shop)
         {
             Console.WriteLine("Name: {0}", Shop.Name);
             Console.WriteLine("Registered Value: {0}", Shop.Number);
