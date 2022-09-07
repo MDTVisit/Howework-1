@@ -18,7 +18,7 @@ internal class Myclass
             Homework.OwnerName = "Jame Goldgood";
             Homework.Value = 1000000;
 
-            PrintCarInformation(Homework);
+            PrintUserInformation(Homework);
             Console.Write("Please input money: ");
             double money = double.Parse(Console.ReadLine());
 
